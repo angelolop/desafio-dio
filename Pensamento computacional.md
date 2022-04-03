@@ -1,18 +1,15 @@
-# Visão geral
-## Apresentação
-Instrutora desse módulo é a Juliana Mascarenhas. Apresentando como o curso se seguirá, focando no pensamento computacional.
 
-## Pilares do Pensamento Computacional
-### Decomposição
+# Pilares do Pensamento Computacional
+## Decomposição
 É a divisão de um problema complexo em subproblemas.
 
-### Reconhecimento de padrões
+## Reconhecimento de padrões
 Identificação de padrões ou tendências, observando também as diferenças entre os problemas.
 
-### Abstração 
+## Abstração 
 Extrapolação de um conceito do problemas para um forma generalista.
 
-### Algoritmo
+## Algoritmo
 A definição de um passo a passo para a solução de um problema.
 
 # Habilidades complementares
