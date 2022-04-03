@@ -1,6 +1,6 @@
 # Introdução ao SCRUM
 ## Gestão de projetos 
-Tradicional: Só permite que o projeto avance quando uma fase está completa.
+Tradicional: Só permite que o projeto avance quando uma fase está completa. <br>
 Ágil: Software construído por parte e cada parte executada em um ciclo.
 
 ## Scrum
