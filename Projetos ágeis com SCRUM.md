@@ -8,6 +8,6 @@ Tradicional: Só permite que o projeto avance quando uma fase está completa.
 Se baseia na transparência, adaptação e inspeção.
 
 ### Papéis e responsabilidades
-Product owner: representante da área de negócios.
-Scrum Master: Garante o uso correto do SCRUM.
+Product owner: representante da área de negócios. <br>
+Scrum Master: Garante o uso correto do SCRUM.<br>
 Time de desenvolvedores: Possui habilidades para desenvolver, testar, criar e desenhar o software.
