@@ -4,3 +4,4 @@ Vou utilizar esse repositório como um pequeno resumo dos meus estudos no bootca
 ## Observações
 Se quiserem adicionar mais informações entre os tópicos descritos, se sintam à vontade para commitar suas contribuições.
 
+_Feito com paciência, perseverança e amor ❤️_
